@@ -31,7 +31,6 @@
             <artifactId>curator-recipes</artifactId>
             <version>4.3.0</version>
         </dependency>
-
         <dependency>
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo</artifactId>
@@ -45,7 +44,7 @@
         </dependency>
         <dependency>
             <groupId>cn.isuyu.dubbo.demo-common</groupId>
-            <artifactId>dubbo-common</artifactId>
+            <artifactId>dubbo-api</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>

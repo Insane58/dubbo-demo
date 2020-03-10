@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.isuyu.dubbo.demo-common</groupId>
-    <artifactId>dubbo-common</artifactId>
+    <artifactId>dubbo-api</artifactId>
     <version>1.0.0</version>
 
 </project>
